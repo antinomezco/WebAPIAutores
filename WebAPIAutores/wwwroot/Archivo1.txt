@@ -1,0 +1,9 @@
+Priceso iniciado
+Priceso iniciado
+Priceso iniciado
+proceso en ejecucion: 21/33/2023 01:33:17
+proceso en ejecucion: 21/33/2023 01:33:22
+proceso en ejecucion: 21/33/2023 01:33:27
+proceso en ejecucion: 21/33/2023 01:33:32
+proceso en ejecucion: 21/33/2023 01:33:37
+Priceso temrinado
